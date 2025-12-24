@@ -105,13 +105,16 @@ Run the training on **1_TrainingYOLOv8.ipynb** notebook. You can change the hype
 
 ## Evaluation Result
 
-This is the training result of the YOLOv8s model that trained on the filtered Japan and India dataset with RTX2060 GPU. You can perform the evaluation on your dataset with **2_EvaluationTesting.ipynb** notebook, just convert your dataset into ultralytics format.
-
+This is the training result of the YOLOv8s
+model that trained on the filtered Japan and India dataset with RTX2060 GPU. You can perform the evaluation on your dataset with **2_EvaluationTesting.ipynb** notebook, just convert your dataset into ultralytics format.
+ <img width="275" height="183" alt="RDD_Prediction (1)" src="https://github.com/user-attachments/assets/2376736e-90ec-45a9-aba0-d845c3938567" />
+ <img width="1300" height="956" alt="RDD_Prediction" src="https://github.com/user-attachments/assets/8470f9dc-cc5f-4598-bd77-6f3e63da635f" />
 <p align="center">
     <img src='resource/PR_curve.png' width='80%'>
     <img src='resource/confusion_matrix.png' width='80%'>
     <img src='resource/val_batch2_pred.jpg' width='100%'>
 </p>
+
 
 ## License and Citations
 - Road Damage Dataset from Crowdsensing-based Road Damage Detection Challenge (CRDDC2022)
